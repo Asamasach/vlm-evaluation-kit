@@ -9,4 +9,4 @@ Tested across textile, metal, glass, and PCB inspection domains.
 This project contains proprietary evaluation data and client-specific benchmarks under NDA.
 
 **For demos, technical details, or collaboration inquiries, please contact me:**
-s.mahdi.sadat.hosseini@gmail.com
+s.mehdi.sadat.h@gmail.com
